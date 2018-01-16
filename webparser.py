@@ -26,12 +26,12 @@ def parse(html):
     for row in rows:
 
         cols = row.find_all('td')
-        print(cols)
+        #print(cols)
 
         if len(cols) > 0:
             projects.append({
                 'location': cols[0].p.text,
-                '380': cols[1].p.text,
+                '380': cols[1].p.text.strip().split(),
                 '180': cols[2].p.text,
                 'mgo': cols[3].p.text
             })

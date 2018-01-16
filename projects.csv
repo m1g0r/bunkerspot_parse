@@ -1,23 +1,23 @@
 location,380,180,MGO
-Buenos Aires,"4, 1, 5",435,720
-Busan,"4, 3, 5",450,640
+Buenos Aires,415,435,720
+Busan,435,450,640
 Durban,,402,632
-Fujairah,"3, 8, 5",445,648
-Gibraltar,"3, 9, 3",413,637
-Hong Kong,"3, 9, 9",406,627
-Houston,"3, 6, 5",430,615
-Istanbul,"4, 0, 0",420,650
-Las Palmas,"3, 9, 7",420,647
-Los Angeles,"4, 1, 7",467,628
-Malta (off),"3, 8, 9",409,620
-Mumbai,"4, 2, 0",0,605
-New York,"3, 9, 6",421,655
-Panama Canal,"3, 8, 2",442,645
-Piraeus,"3, 9, 7",422,640
-Rotterdam,"3, 6, 7",385,596
-Santos,"3, 8, 4",416,755
-Shanghai,"4, 1, 5",477,692
-Singapore,"3, 9, 4",424,610
-St. Petersburg,"3, 3, 0",364,600
-Suez,"4, 2, 1",432,720
-Tokyo,"4, 3, 7",448,643
+Fujairah,385,445,648
+Gibraltar,393,413,637
+Hong Kong,399,406,627
+Houston,365,430,615
+Istanbul,400,420,650
+Las Palmas,397,420,647
+Los Angeles,417,467,628
+Malta (off),389,409,620
+Mumbai,420,0,605
+New York,396,421,655
+Panama Canal,382,442,645
+Piraeus,397,422,640
+Rotterdam,367,385,596
+Santos,384,416,755
+Shanghai,415,477,692
+Singapore,394,424,610
+St. Petersburg,330,364,600
+Suez,421,432,720
+Tokyo,437,448,643
